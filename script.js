@@ -32,3 +32,4 @@ function equalClick(){
     var result=eval(text)
     document.getElementById("screen").value=result
 }
+
